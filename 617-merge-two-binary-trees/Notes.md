@@ -1,1 +1,0 @@
-<h2>merge-two-binary-trees Notes</h2><hr>[ Time taken: 38 m 40 s ]
